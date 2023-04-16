@@ -5,12 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on fornd-end
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on project
-- 🤔 I’m looking for help with 
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 
+- 🌱 I’m currently learning react frond end developer and I'm constantly improving myself.
+- 👯I need your help to improve myself. We can develop a project together
+- 

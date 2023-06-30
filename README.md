@@ -1,4 +1,4 @@
-💫I’m currently learning react frond end developer and I'm constantly improving myself.
+
 
   ✍️ As a Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, CONTEXT API to create dynamic web pages. At the moment I'm learning TypeScript and React
   

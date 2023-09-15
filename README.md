@@ -8,4 +8,4 @@
   
  
  
-  You can reach me hasanozcelik.05@gmail.com or any social Media account 
+  You can reach me hasanozcelik.05@gmail.com or any social Media account.

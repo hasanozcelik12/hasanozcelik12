@@ -1,6 +1,6 @@
 
 
-  ✍️ Hello, I am Hasan, I am a react front-end and react native developer. While I was at the university, I realized that I had an interest and talent in the field of software while taking software courses, and I started by learning react front-end. I have been improving myself in react front-end and other software areas that I am interested in for more than a year.
+  ✍️ I started my career working as an electrical manager in a biogas energy company. Here, I generally contributed to solving various electrical and mechanical faults in the field. Then, due to my interest and curiosity, I decided to improve myself in the software industry. So far, I have done many projects using React technology in three different companies.As a creative problem-solver, I enjoy tackling challenges, streamlining development processes, and improving project efficiency. My previous work and educational background have equipped me with strong analytical and problem-solving skills, which I continuously apply in my development projects.
   
  💪 I use HTML5, CSS3, SASS, SCSS, Boostrap, Tailwind, Javascript, React.js, Reac-Redux, React-Toolkit,React Native CLI,Expo software languages ​​and libraries in my projects. Additionally, I create my projects by applying responsive design suitable for laptops and phones.
  
